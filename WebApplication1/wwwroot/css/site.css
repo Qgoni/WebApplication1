@@ -1,0 +1,221 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #E6E7FF;
+}
+.one-button-ask{
+  margin-top: 60px;
+  margin-left: 170px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 40px;
+  height: 45px;
+  width: 160px;
+}
+
+.button-news{
+  margin-top: 55px;
+  margin-left: 50px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 40px;
+  height: 45px;
+  width: 160px;
+}
+
+.button-edit{
+  margin-top: -55px;
+  margin-left: 50px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 40px;
+  height: 45px;
+  width: 160px;
+}
+.button-articles{
+  margin-top: 55px;
+  margin-left: 50px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 40px;
+  height: 45px;
+  width: 160px;
+}
+.text-main{
+  margin-top: 100px;
+  margin-left: 40px;
+}
+.text-mainss{
+  font-weight: bold;
+  font-size: 60px;
+}
+.figure-1{
+  position: relative;
+  margin-top: 30px;
+  float: right;
+  height: 540px;
+  width: 658px;
+}
+.figure-2{
+  position: relative;
+  float: right;
+  margin-left: 500px;
+  margin-right: 60px;
+  height: 290px;
+  width: 708px;
+  top: -480px;
+  left: 50px;
+  z-index: 1;
+}
+.photo-teacher{
+  float: right;
+  position: relative;
+  margin-left: 500px;
+  margin-right: 300px;
+  height: 210px;
+  width: 210px;
+  top: -770px;
+  left: 50px;
+  z-index: 2;
+}
+.circle{
+  position: relative;
+  border: 1px solid black;
+  float: right;
+  height: 205px;
+  width: 205px;
+  top: -904px;
+  border-radius: 200px;
+  background: #F3FFE7;
+  margin-left: 500px;
+  margin-right: 480px;
+  z-index: 2;
+}
+.post-name{
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  top: -1266px;
+  margin-right: 530px;
+  margin-left: 500px;
+  float: right;
+  z-index: 3;
+}
+.post{
+  font-size: 14px;
+  text-align: center;
+  position: relative;
+  top: -1266px;
+  margin-right: 485px;
+  margin-left: 500px;
+  float: right;
+  z-index: 3;
+}
+.circle-2{
+  position: relative;
+  border: 1px solid black;
+  float: right;
+  height: 205px;
+  width: 205px;
+  top: -1110px;
+  border-radius: 200px;
+  background: #F3FFE7;
+  margin-right: 50px;
+  margin-left: 480px;
+  z-index: 2;
+}
+.post-name-2 {
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 14px;
+  text-align: center;
+  position: relative;
+}
+.post-2{
+  font-size: 14px;
+  text-align: center;
+}
+.wr{
+  top: -29px;
+  margin-right: 12px;
+  position: relative;
+  margin-bottom: 100px;
+  float: right;
+}
+.we{
+  position: relative;
+  margin-bottom: 100px;
+  float: right;
+  top: -1550px;
+  margin-left: 500px;
+  margin-right: 71px;
+  z-index: 3;
+}
+.m-name-teacher{
+  float: right;
+  position: relative;
+  top: -1725px;
+  margin-left: 500px;
+  margin-right: 71px;
+  z-index: 3;
+}
+.name-teacher{
+  text-align: center;
+  font-weight: bold;
+  margin-left: 500px;
+  margin-right: 185px;
+  font-size: 22px;
+}
+.cases-info{
+  margin-left: 100px;
+  margin-top: -1300px;
+}
+.case-info-learning{
+  border-radius: 50px;
+  float: left;
+  background-color: #F3FFE7;
+  height: 290px;
+  width: 369px;
+  border: 1px solid black;
+  margin-top: -1350px;
+}
+.case-training-manual{
+  border-radius: 50px;
+
+  margin-top: 1700px;
+  margin-left: 525px;
+  left: 50%;
+  right: 50%;
+  border: 1px solid black;
+  background-color: #F3FFE7;
+  height: 290px;
+  width: 369px;
+}
+.case-info-awards{
+  border-radius: 50px;
+  border: 1px solid black;
+  margin-top: -1350px;
+  float: right;
+  margin-right: 50px;
+  background-color: #F3FFE7;
+  height: 290px;
+  width: 369px;
+}
+.oval-position{
+  margin-right: -140px;
+}
