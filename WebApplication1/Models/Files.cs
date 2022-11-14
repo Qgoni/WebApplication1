@@ -8,7 +8,6 @@ public class Files
 {
     [Key] 
     public long id { get; set; }
-    public string Name { get; set; }
+    public string Name { get; set; } = null!;
     public byte Pdf { get; set; }
-    
 }
